@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto de Vida</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #c29c9c;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 50px;
+            background-color: rgb(114, 61, 61);
+            color: white;
+            padding: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 10px;
+        }
+
+        th, td {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Projeto de Vida</h1>
+
+    <img src="https://th.bing.com/th/id/OIP.2FTCrd6oWVVoEhBrhgYZVAHaEn?rs=1&pid=ImgDetMain" alt="estudo constante">
+
+    <h2>Recursos necessários para iniciar na programação</h2>
+
+    <p>Materiais:</p>
+    <ol>
+        <li>Macbook</li>
+        <li>Caderno</li>
+        <li>Caneta</li>
+        <li>Pen Drive</li>
+    </ol>
+
+    <p>Recursos:</p>
+    <ul>
+        <li><strong>Conhecimento</strong> em HTML</li>
+        <li><strong>Conhecimento</strong> em CSS</li>
+        <li><strong>Conhecimento</strong> em JavaScript</li>
+    </ul>
+
+    <h2>O que são esses 3 recursos?</h2>
+    <p>HTML é a <strong>estrutura</strong> básica de um site.</p>
+    <p>CSS é o <strong>design</strong> do site.</p>
+    <p>JavaScript são as <strong>interações</strong> do site.</p>
+
+    <table>
+        <tr>
+            <th>Recurso</th>
+            <th>Função</th>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>Estrutura do site</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>Visual/design do site</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>Interações e dinâmicas</td>
+        </tr>
+    </table>
+
+</body>
+</html>
